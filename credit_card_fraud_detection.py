@@ -1,11 +1,4 @@
-"""Credit Card Fraud Detection.ipynb
-
-
-
-Original file is located at
-    https://colab.research.google.com/drive/1qCpe-NeBvmNT4DmgAT38-VsuN9WtZQ4d
-
-Importing the Dependencies
+"""Credit Card Fraud Detection.py
 """
 
 import numpy as np
